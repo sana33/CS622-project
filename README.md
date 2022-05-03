@@ -2,6 +2,5 @@
  Intro. to Machine Learning at UNLV
  
 ## Members:
- Sayyed Ahmad Naghavi Nozad
- 
- Abdul Tauqeer
+ * Sayyed Ahmad Naghavi Nozad
+ * Abdul Tauqeer
