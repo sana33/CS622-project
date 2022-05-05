@@ -5,4 +5,4 @@
  * Sayyed Ahmad Naghavi Nozad
  * Abdul Tauqeer
 
-#### [Link to recorded presentation](https://drive.google.com/file/d/17xcbkYeilJhmD-q0_dBHydXnVflFKblh/view?usp=sharing "Recorded Presentation")
+#### [Link to recorded presentation](https://drive.google.com/file/d/1npqLLlE6bykkhD8nVS8P49qGOs6EwfqO/view?usp=sharing "Recorded Presentation")
